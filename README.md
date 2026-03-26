@@ -10,6 +10,6 @@
 
 ```mermaid
 graph LR
-    A[<b>User</b><br/>Web Browser] <--- HTTP ---> B[<b>Front-end</b><br/>UI Rendering]
-    B <--- API Request ---> C[<b>Back-end</b><br/>API Server]
-    C <--- Internal Logic ---> D[<b>AI Engine</b><br/>Brutal Logic]
+    A[User/Web Browser] --- B[Front-end: UI Rendering]
+    B --- C[Back-end: API Server]
+    C --- D[AI Engine: Brutal Logic]
