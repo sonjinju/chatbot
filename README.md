@@ -1,4 +1,4 @@
-# 쇼펜하우어 독설 챗봇 (Schopenhauer Brutal Chatbot)
+# 🧛‍♂️ 쇼펜하우어 독설 챗봇 (Schopenhauer Brutal Chatbot)
 
 비관주의 철학자 아서 쇼펜하우어의 페르소나를 빌려, 사용자의 고민에 냉소적이고 날카로운 조언을 제공하는 AI 챗봇 프로젝트입니다.
 
